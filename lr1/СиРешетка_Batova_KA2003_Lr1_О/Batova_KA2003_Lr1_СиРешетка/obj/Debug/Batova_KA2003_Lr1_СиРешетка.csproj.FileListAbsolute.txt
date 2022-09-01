@@ -1,0 +1,10 @@
+C:\Полина\java\ЛАБЫ\lr1\Batova_KA2003_Lr1_СиРешетка\Batova_KA2003_Lr1_СиРешетка\bin\Debug\Batova_KA2003_Lr1_СиРешетка.exe.config
+C:\Полина\java\ЛАБЫ\lr1\Batova_KA2003_Lr1_СиРешетка\Batova_KA2003_Lr1_СиРешетка\bin\Debug\Batova_KA2003_Lr1_СиРешетка.exe
+C:\Полина\java\ЛАБЫ\lr1\Batova_KA2003_Lr1_СиРешетка\Batova_KA2003_Lr1_СиРешетка\bin\Debug\Batova_KA2003_Lr1_СиРешетка.pdb
+C:\Полина\java\ЛАБЫ\lr1\Batova_KA2003_Lr1_СиРешетка\Batova_KA2003_Lr1_СиРешетка\obj\Debug\Batova_KA2003_Lr1_СиРешетка.csprojAssemblyReference.cache
+C:\Полина\java\ЛАБЫ\lr1\Batova_KA2003_Lr1_СиРешетка\Batova_KA2003_Lr1_СиРешетка\obj\Debug\Batova_KA2003_Lr1_СиРешетка.Form1.resources
+C:\Полина\java\ЛАБЫ\lr1\Batova_KA2003_Lr1_СиРешетка\Batova_KA2003_Lr1_СиРешетка\obj\Debug\Batova_KA2003_Lr1_СиРешетка.Properties.Resources.resources
+C:\Полина\java\ЛАБЫ\lr1\Batova_KA2003_Lr1_СиРешетка\Batova_KA2003_Lr1_СиРешетка\obj\Debug\Batova_KA2003_Lr1_СиРешетка.csproj.GenerateResource.cache
+C:\Полина\java\ЛАБЫ\lr1\Batova_KA2003_Lr1_СиРешетка\Batova_KA2003_Lr1_СиРешетка\obj\Debug\Batova_KA2003_Lr1_СиРешетка.csproj.CoreCompileInputs.cache
+C:\Полина\java\ЛАБЫ\lr1\Batova_KA2003_Lr1_СиРешетка\Batova_KA2003_Lr1_СиРешетка\obj\Debug\Batova_KA2003_Lr1_СиРешетка.exe
+C:\Полина\java\ЛАБЫ\lr1\Batova_KA2003_Lr1_СиРешетка\Batova_KA2003_Lr1_СиРешетка\obj\Debug\Batova_KA2003_Lr1_СиРешетка.pdb
